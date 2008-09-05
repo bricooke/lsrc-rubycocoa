@@ -1,1 +1,5 @@
 p=. COMING SOON
+
+* My slides (with stock photos removed)
+* The example built during the presentation
+* Maybe some other stuff? Notes probably.
