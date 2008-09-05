@@ -1,5 +1,9 @@
+p=. HERE
+
+* My slides as a PDF with stock photos removed
+* The code for the demo app I built
+
+
 p=. COMING SOON
 
-* My slides (with stock photos removed)
-* The example built during the presentation
 * Maybe some other stuff? Notes probably.
